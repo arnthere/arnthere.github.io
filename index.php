@@ -1,7 +1,4 @@
-<?php 
 
-echo "haloo";
-?>
 
 <!DOCTYPE html>
 <html>
@@ -9,6 +6,6 @@ echo "haloo";
 	<title></title>
 </head>
 <body>
-
+haloo im back
 </body>
 </html>
